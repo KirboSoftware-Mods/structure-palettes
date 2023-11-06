@@ -13,16 +13,16 @@ A mod that randomly replaces blocks in structures
 '''
 #logoFile = ""
 
-[[dependencies.examplemod]]
+[[dependencies.structurepalettes]]
 modId = "forge"
 mandatory = true
 versionRange = "[44,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.examplemod]]
+[[dependencies.structurepalettes]]
 modId = "minecraft"
 mandatory = true
-versionRange = "[1.19,)"
+versionRange = "[1.20,)"
 ordering = "NONE"
 side = "BOTH"
